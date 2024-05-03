@@ -1,6 +1,6 @@
 const input = document.querySelector('#favchap');
 const button = document.querySelector('button');
-const list = document.querySelector('_______');
+const list = document.querySelector('bom.html');
 
 const li = document.createElement('li');
 const deletebutton = document.createElement('button');
@@ -11,3 +11,4 @@ deleteButton.textContent = '';
 li.append(deletebutton);
 
 list.append(li);
+
